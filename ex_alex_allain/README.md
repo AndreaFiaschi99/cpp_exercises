@@ -8,5 +8,5 @@ If you want to run one of the exercises in this folder it is necessary to compil
 Here is a list of all the exercises present in this directory:
     - ex_1: print helloworld
     - ex_2: showcase input and output and differences between integer and floating point operations
-    - 
+    - ex_chap_3: showcases how the input / output works, basic operations between numbers, difference between input output.
     - 
