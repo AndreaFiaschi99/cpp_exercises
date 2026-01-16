@@ -10,4 +10,4 @@ Here is a list of all the exercises present in this directory:
     - ex_2: showcase input and output and differences between integer and floating point operations
     - ex_chap_3: showcases how the input / output works, basic operations between numbers, difference between input output.
     - ex_chap_4:
-    - ex_chap_5: 
+    - ex_chap_5:
