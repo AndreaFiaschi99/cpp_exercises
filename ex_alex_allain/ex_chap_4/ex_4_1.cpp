@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main(){
+int main()
+{
 
     std::cout << "please insert two numbers that represent two random ages: \n";
     int age1;
